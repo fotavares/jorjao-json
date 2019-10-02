@@ -1,0 +1,428 @@
+{
+    "public":{
+        "actions": [
+            {
+                "word": "\\btop\\b",
+                "response": [
+                    "Topster",
+                    "Topissimo",
+                    "Topzeira",
+                    "Topeira",
+                    "HeliTOPtero",
+                    "Topson"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bpinto\\b|\\bbenes\\b",
+                "response": [
+                    ":baby_chick:",
+                    ":hatched_chick:",
+                    ":hatching_chick:"
+                ],
+                "type": "emoji",
+                "qty":"3"
+            },
+            {
+                "word": "\\bcomprar\\b",
+                "response": [
+                    ":money_with_wings:"
+                ],
+                "type": "emoji"
+            },
+            {
+                "word": "\\bbrotheragem\\b|\\bbroderagem\\b|\\bbroderagi\\b",
+                "response": [
+                    "https://www.campograndenews.com.br/lado-b/comportamento-23-08-2011-08/grupo-cria-festa-para-homens-que-curtem-homens-mas-que-garantem-ser-heteros",
+                    "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2015/01/29/sou-heterossexual-mas-fiz-sexo-oral-em-outro-homem-corro-algum-risco.htm"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bnudes\\b",
+                "response": [
+                    "Eu ouvi NUDES??",
+                    "Nudes? Adoro!",
+                    "Nudes? Também quero!"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bbeij.*boca\\b",
+                "response": [
+                    "http://www.youtube.com/watch?v=Hb-QfHU_AyU"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\brabo\\b|\\braba\\b|\\brabeta\\b|\\brabao\\b|\\brabão\\b",
+                "response": [
+                    "AgADAQADiqgxG_B5IEQfss2puO3Cq28kAzAABN0eBvOigJ_m6HUCAAEC",
+                    "AgADAQADH6gxG_KWyEc62QABZ3OxcwHGeAwwAAThbTv6ZFcsemzHAwABAg"
+                ],
+                "type": "image"
+            },
+            {
+                "word": ".*bateu.*bad.*",
+                "response": [
+                    "AgADBQADmqgxG9JtEFRTtiiLBNpwrWKp0zIABGyt3h56efg8CmMDAAEC"
+                ],
+                "type": "imagem"
+            },
+            {
+                "word": ".*rabuda.*",
+                "response": [
+                    "https://grodosbova.blogspot.com/2019/04/como-se-tornar-uma-gotica-rabuda-veja.html"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bfé\\b",
+                "response": [
+                    ":pray:"
+                ],
+                "type": "emoji",
+                "qty":"3"
+            },
+            {
+                "word": "\\borgia\\b",
+                "response": [
+                    "https://revistagalileu.globo.com/Ciencia/noticia/2019/07/cigarras-afetadas-por-fungo-alucinogeno-fazem-orgia-ate-genitalia-gangrenar.html"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bfogo.*rabo\\b",
+                "response": [
+                    "CgADBAADTAAD0NdpUAwXweHEHLVmAg"
+                ],
+                "type": "doc"
+            },
+            {
+                "word": "\\bfalar.*coisa.*boa\\b",
+                "response": [
+                    "AgADBAADc-g7G4IbZAfYK5r_V4O3in5giRoABKqXtTzs79l9O7QAAgI"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "\\bdúvida\\b",
+                "response": [
+                    "AgADAQADHKgxGyNx4EYHLIPMz00CFj5zDDAABMNM6fyJFr9H97kEAAEC"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "\\bbem.*bolado\\b",
+                "response": [
+                    "AgADAQAD86cxG5U9OERdWsEMN9nj5sMFCzAABJKyv-XI-b5WVBwAAgI"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "\\bbrojob\\b|\\bbro-job\\b|\\bg0y\\b|\\bbro job\\b",
+                "response": [
+                    "AgADAQAD1qcxG0CcMUYG8ilaPrdFD_L7CjAABKS6ol5pSg5eSYAAAgI",
+                    "AgADAQAD3acxG_IyaUb-M_9YS-FZnLK_CjAABAfWHFxXHWF3JBcBAAEC",
+                    "AgADAQADyqcxG4GcmEcZfdMVbM4bpT5vDDAABE1LLLDl2QGbxmUBAAEC",
+                    "AgADBAADHLAxG9pHQFI4YDmTFXwG3F33nhoABFftnBp_I6O9FMcFAAEC",
+                    "AgADAQAEqDEb9UipR458IS8pDXTevXEMMAAEUDWjQYU_bU6hwQMAAQI",
+                    "AgADAQADLagxGxFlMEdcwd9lar76XfVsDDAABFh5adVzU_peKdcEAAEC",
+                    "AgADAQADKagxG09H8EcuNHtA1OlkfQo2FDAABNeD3033nK9yO1ECAAEC"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "\\bsexo cristão\\b|\\bsexo cristao\\b",
+                "response": [
+                    "https://www.metropoles.com/vida-e-estilo/celebridades/praticante-de-sexo-cristao-angela-bismarchi-nao-faco-mais-anal"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bprinceso\\b|\\bfloquinho\\b",
+                "response": [
+                    "AgADAQADJ6gxGy7u0EQEJpEVWa5Kw18g9y8ABBWML8ywN73Xhz4DAAEC"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "^nossa$",
+                "response": [
+                    "AgADAQAD4qcxG95iqUXLbEaWBMBdxAQb9y8ABHOcFLSmCcp51XEDAAEC"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "altinh|chapad|locass|maconh|brisad",
+                "response": [
+                    "https://extra.globo.com/noticias/viral/depois-dos-g0ys-conheca-highsexual-hetero-que-vira-homossexual-apos-consumo-de-drogas-14998621.html"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\blula\\b",
+                "response": [
+                    "http://g1.globo.com/mundo/noticia/2011/09/cientistas-identificam-comportamento-promiscuo-e-bissexual-em-lula.html",
+                    "https://m.oglobo.globo.com/sociedade/ciencia/cientistas-descobrem-que-lula-tem-superpenis-que-quando-ereto-fica-quase-do-tamanho-do-corpo-2983281"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\basilo\\b",
+                "response": [
+                    "https://m.extra.globo.com/noticias/page-not-found/asilo-atende-pedido-contrata-gogo-boys-para-animar-idosas-23162463.html"
+                ],
+                "type": "text"
+            },
+            {
+                "word": "\\bsextou\\b",
+                "response": [
+                    "AgADAQADGagxG9rsUUUgGYF4k2CJmtN3DDAABOSzXGqdDaHEID4DAAEC",
+                    "AgADAQADHagxG_nuKUcnS8UnAoc44Asi9y8ABH91l_freWnsC8QDAAEC",
+                    "AgADAQADIqgxGz2jgEd1m-j_eVjws9EDCzAABJF4-n8qL6zV9KYCAAEC",
+                    "AgADAQADUKgxG8jNgEeGVRcDKAXrmOp2DDAABIXVxoN9eFwtZ7oDAAEC",
+                    "AgADAQADUKgxG8jNgEeGVRcDKAXrmOp2DDAABIXVxoN9eFwtZ7oDAAEC",
+                    "AgADAQADHKgxG2zKQUd6dDag0xqFvW4PFDAABK-N6FUAAa8ghJ5PAgABAg"
+                ],
+                "type": "image"
+            },
+            {
+                "word": "\\bfraco\\b",
+                "response": ["AgADAQADxKgxG9nzkUYy6YzvahJ22xcVFDAABH8y_msIBeoRGxQCAAEC",
+                    "AgADAQADIKgxG-wnkEaFctE4zdHeIk0bFDAABEdC8Co-7SajexYCAAEC",
+                    "AgADAQADxagxG9nzkUaxFZSPkqADh-RyDDAABJ_d3Y7-iPK6HaEEAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bcu\\b",
+                "response": ["AgADAQADFKgxG416kEbN4-wfzaOOeYwQFDAABFK-BO8ztwUAAU8SAgABAg"],
+                "type": "image"
+            },
+            {
+                "word": "\\bpica\\b",
+                "response": ["AgADAgADaaoxG1NgQEu6Z3Bccz8F7yBaXw8ABGbcWlf_2mArejAFAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\banal\\b",
+                "response": ["AgADAQADKqgxG1E7gUT9ZDhCT23P8jW_CjAABAEAAwIAA20AAxWsBQABFgQ"],
+                "type": "image"
+            },
+            {
+                "word": "\\bespecialista\\b",
+                "response": ["AgADAQADKqgxG1E7gUT9ZDhCT23P8jW_CjAABAEAAwIAA20AAxWsBQABFgQ"],
+                "type": "image"
+            },
+            {
+                "word": "\\balongamento\\b",
+                "response": ["AgADAQADf6gxG-UgeEQ86w12_g4WkJLoawYABAEAAwIAA20AAwvBAAIWBA"],
+                "type": "image"
+            },
+            {
+                "word": "\\bold\\b",
+                "response": ["AgADAQADRKgxG-wnmEalxM1QKRli12McFDAABBSWom4s6mWkFhwCAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\barte\\b",
+                "response": ["AgADAQADMqgxG3etmEa5osoQfMFdpJ4SFDAABFAMUyG48mauxBcCAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bgold\\b",
+                "response": ["AgADAQADJKgxG6hA8UYkDSrnJiVASt0TFDAABGwTURFKFrNWnjMCAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bohana\\b",
+                "response": ["AgADAQADVakxG9TNqEYcuuNDmO8-2sIfFDAABOFNIOhmJYXMKRwCAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bhardcore\\b",
+                "response": ["AgADAQADBqgxG0AV4UZokpblUa6asdLpCjAABNs6CH6e64ATDpsDAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bcabecinha\\b",
+                "response": ["AgADAQADDKgxG5eOqUV220HE6Z4fbuRtDDAABCzHW58aiEKFp1UDAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bgado demais\\b",
+                "response": ["AgADAQADjqgxG5n-gETczgdyzDxS-s8WFDAABNYtF2fwt3w_sWgBAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bfoda-se\\b|\\bfoda se\\b",
+                "response": ["AgADAQADHagxGzTJ6UQSGx-cBzDRVje3CjAABIjGmjNtZEa64HwDAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bque horas são\\b|\\bque horas sao\\b",
+                "response": ["AgADAQADK6gxG17jOUVGK-wb9sgkUmQECzAABOjDMfhj80aUozEDAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bbom dia\\b",
+                "response": ["AgADAQAD9KcxG1_QoEd-KYpEFd2PBMkZ9y8ABOMGIbdR8jYIqPwCAAEC",
+                    "AgADBAAD0KcxG7mtVVMF9H3VVaLmpHxzmhoABAIgSitWRJgij10BAAEC",
+                    "AgADBAAD6qcxG0U07VJ3Yk9Johked3fjkBkABHA7R7ssMZpn46UBAAEC",
+                    "AgADBAAD0KcxG0Y8hVNk175-My-yNAtsmhoABFjlqrqtpBWXlHMBAAEC",
+                    "AgADBAADwacxG1bFrVNK8Kq_-649T0IOjhoABBXjI3MkN7XEhTwFAAEC",
+                    "AgADBAADtacxG7bjrFPVX5Xs-C29AUpaiRoABF4feij7kxiy4mYFAAEC",
+                    "AgADAQAD5KcxG5szsUdt9fKhRA2hlH10DDAABMDmLAeLs2wy1mcBAAEC",
+                    "AgADAQAD2qcxG4NoqEcR1aMKYxZBFMN1DDAABPruoIaB1ybwB2kBAAEC",
+                    "AgADAQAD26cxG4NoqEcywOn40QRw87UrAzAABPKDG6Tqg9UgkTwCAAEC",
+                    "AgADAQAD5acxG5szsUdE2JzXW5jgOFYmAzAABBHo4qS4wgAB8sJfAgABAg",
+                    "AgADAQAD5qcxG5szsUcyKdGvwk0DPGRuDDAABL2lrHp7sFueHWUBAAEC",
+                    "AgADAQAD3KcxG4NoqEfzgfrvEo0yyvzrCjAABPi2Pl6HVaHnukkAAgI",
+                    "AgADAQAD56cxG5szsUdjqNR4K6CMUdwmAzAABO-Qe_FNeRxPC14CAAEC",
+                    "AgADAQAD9acxGy3aGERehOBk1kgfqvLsCjAABK3VHNcXx6D6l1oAAgI",
+                    "AgADAQADAqgxG-giGUTAtwE-VIHZVHr6CjAABDR6FuPW-jsemhIAAgI",
+                    "AgADAQAD3acxG8Bi0UQWeH7MvPHRIMkpAzAABNrEcaULw-_tXnoCAAEC",
+                    "AgADAQADBKgxGxs28UXC9oSY8wgvMkLACjAABF6LfSQx9KrP0QABAQABAg",
+                    "AgADAQAD56cxG_1JAUY5ZUsY4Pd0YkStCjAABFn-PSr3xhdEHRABAAEC",
+                    "AgADAQAD7acxG-xu-UWFbMES3NpV9hFnAzAABIj4ycfzTrH2eLcAAgI",
+                    "AgADAQAD-qcxG9wBKEYS3lcN9pG8B1FoAzAABAHqQ8VpmEFYur4AAgI",
+                    "AgADAQAD2qcxG2DOMUZTCr-Cg2bLpQF5DDAABM1Sev6NsV4zKuEBAAEC",
+                    "AgADAQAD16cxG88ZkUbchzZEOsnErTAFCzAABOjJJXpXAvxEoKEAAgI",
+                    "AgADAQAD7KcxG-qTOUU_6e_dAuFusLMCCzAABJUHUJYeQcCTtkUBAAEC",
+                    "AgADAQAD_acxG5rcGEUsjg35sY6LCZYd9y8ABIsUx5VDzkipijsEAAEC",
+                    "AgADAQAD_acxGzabEUVq3lOFhfAvx6sECzAABLlSIBkVYVVh_jsBAAEC",
+                    "AgADAQAEqDEbhrzpREIhH3lHdAx6c7AKMAAEv7uu5xjrAyCXuAEAAQI",
+                    "AgADAQADEKgxG7VNIESr2eEiVV0dgSrtCjAABEmhra4bqhWPEicBAAEC",
+                    "AgADAQAD5acxG5Y1cEcHogjXFIb6elEqAzAABA-UPZ8rL6Mx7AMDAAEC",
+                    "AgADAQAEqDEbq9-RRjOA8fRk1EDBEzQUMAAEqv4btaD4y0vMxwACAg",
+                    "AgADAQADb6gxG6vfiUYBECwL9DJacsx1DDAABJdCIaCexYxrDYEDAAEC",
+                    "AgADAQADBagxG3RB0UWIO2hORNR8dgiwCjAABHqaNWfCFvNl1rACAAEC",
+                    "AgADAQADG6gxG-7owEWCRJPNLClSn8pmAzAABI5atIc3VYMC800CAAEC",
+                    "AgADAQADG6gxG-7owEXEpZL0MnNafx7sCjAABMkNXdPbyOBoljoCAAEC",
+                    "AgADAQADG6gxG-7owEXnI4jwSGUUgBRwDDAABMVxiWSD67cR_lMDAAEC",
+                    "AgADAQADG6gxG-7owEUH45Fuk8SQMEYRFDAABO035mLXG59s97MAAgI",
+                    "AgADAQADG6gxG-7owEXSyQEj0RdiSK65CjAABDwGDiZzZ3ACsKQCAAEC",
+                    "AgADAQADHagxG-7owEWA5Ma96Tr2oZAcFDAABLD_5PvsfLX20bIAAgI",
+                    "AgADAQADHKgxG-7owEXxNAc7qNn5kaAECzAABOeI1n3H7RVFkj0CAAEC",
+                    "AgADAQADIKgxG-7owEX6annY63HCvk69CjAABB_MQ0YU6Pn4v4MCAAEC",
+                    "AgADAQAD7qcxGx0koETUAWwinPpr6NwAAQswAASxJzDboKtf7BcDAgABAg",
+                    "AgADAQAD6acxG22uwUdJJ_VKsNPLy_kCCzAABEyrEzp47A2bMsACAAEC",
+                    "AgADAQADD6gxGwABWClEdE-RSSc36QsJ7gowAAS_oWWiKx4GSvy_AgABAg",
+                    "AgADAQADHqgxGwjbOET2kEvAHXAfjRo2FDAABKcLHGU2D3Tk0iYBAAEC",
+                    "AgADAQADK6gxG1mNuUWHN-kTabAzx6QdFDAABNUAAbVVK0NjQHnLAQABAg",
+                    "AgADAQADzKcxGwXlkUXzECewh3_AQvgU9y8ABG69x5HwM8ZDk58AAgI",
+                    "AgADAQADF6gxG2Ff2Ebi0Ty_LUGCOkJ0DDAABChCL8uqOYaRZ7AEAAEC",
+                    "AgADAQADK6gxG447OUevY0n5wbmj0UZnDDAABObz_lwX3CZX-dIEAAEC",
+                    "AgADAQADdagxG6osGEdL0sOrLpmJew00FDAABHERrBSXa2zbRwkCAAEC",
+                    "AgADAQADD6kxG86UaEfT6lp260GOCB9lDDAABFfkqgtypm0Nh94EAAEC"],
+                "type": "image"
+            },
+            {
+                "word": "\\bboa tarde\\b",
+                "response": ["AgADBAAD_8Y9G9sXZAdXNQ4av0-1S4YOkRkABLawNDOJPmb9OjsAAgI",
+                    "AgADBAADuFo8G1cYZAduG6Wn6rtFI66IjBoABLvaFtqFpY9DoTEBAAEC",
+                    "AgADBAAD3qcxGxH61FKAs0pfziYrfFJQiRoABWhPgAbRQkl12gQAAQI",
+                    "AgADBAADHOc5G1YYZAejCnMwRkqHPwAB5-EZAASjSzy1UpWQDOnJAgABAg",
+                    "AgADBAAD4acxG0m6pFNagdchIT7LcuS7mxoABDbpBgEl0O7AhokBAAEC",
+                    "AgADAQAD_qcxGzrgqEcwBou7k-oWVFcd9y8ABDjKOIVtSn6_CvwCAAEC",
+                    "AgADAQAD3acxG4NoqEfovOimdEuFGHEg9y8ABPkOH-5f-gnxAgEDAAEC",
+                    "AgADAQAD3qcxG4NoqEenvrSkEgmwHXAc9y8ABFDjc9ocyso4nPsCAAEC",
+                    "AgADAQAD36cxG4NoqEdkkTV7RX7mb0hhDDAABPtQO6FkKtiblGcBAAEC",
+                    "AgADAQAD_6cxGzrgqEdtgKEqi9wa4F1nAzAABKhzbBmNMtukykkAAgI",
+                    "AgADAQAEqDEbOuCoRw46V7cYWCElbrkKMAAENfnd-xtnpLx_lQACAg",
+                    "AgADAQAD4KcxG4NoqEc6NudrIq6zvBa9CjAABCthK1oRMzAhe5IAAgI",
+                    "AgADAQADEagxG86UYEf5gHTobDG2ZNtrDDAABBax8mmyM9MLAAHaBAABAg"],
+                "type": "image"
+            },
+            {
+                "word": "\\bboa noite\\b",
+                "response": ["AgADBAAD3qcxG4nAbVKFFb5oqfjHYWjYjRoABJj7Z4h4e_n5SFwEAAEC",
+                    "AgADBAADM4Y5GwgXZAcDJLmXRpOD7Gwp4xkABE_80thyRuncILsBAAEC",
+                    "AgADBAADSeY5G90bZAeaUmjQtLs2uNn44RkABMZmN4ROskBzV-QCAAEC",
+                    "AgADBAADGwQ-G3kdZAcS2SAfPRMawQ0bjhoABIp-BR0ke02cNrMDAAEC",
+                    "AgADBAADy6cxG4LddVLL0w9z5uHFu6gHkRkABNKfT9H_GIIX3SkBAAEC",
+                    "AgADAQADAagxGzrgqEfq_K-CQPhzG5JoAzAABKbCnSpI4Akaa0cAAgI",
+                    "AgADAQADAqgxGzrgqEfWngHm5qqjgncd9y8ABF23aeSUQgagrfgCAAEC",
+                    "AgADAQAD4acxG4NoqEdCFsygZag33o0lAzAABE3ayzW1NXEpz1cCAAEC",
+                    "AgADAQADA6gxGzrgqEdt2TcmSfYODeSvCjAABDwcR9zvFuGjMpoAAgI",
+                    "AgADAQADBKgxGzrgqEeozrGrNB3qmWcrAzAABJ8allo7n895yjsCAAEC",
+                    "AgADAQAD4qcxG4NoqEeWK0SM3L2c4HVlDDAABEyKcoXL935PemkBAAEC",
+                    "AgADAQADBagxGzrgqEd3Xxo5hBMUPXksAzAABL3QluAf8yxHnjkCAAEC",
+                    "AgADAQAD86cxGxLvsEQzeReDGlxCtea5CjAABGz1tcpY47tp88MAAgI",
+                    "AgADAQAD46cxGzk1sUUMbB-X9rhhJe91DDAABK4DdK2D8cU338kBAAEC",
+                    "AgADAQADFqgxG_9YmUc1RCR7Fs3vnhJmAzAABLHYPJDuctrb3AUBAAEC",
+                    "AgADAQADI6gxG-7owEXzD3MS2N0u4JqvCjAABOPScg5h9jJHDr4CAAEC",
+                    "AgADAQADDagxG-7ouEWubYLs7FK08t-1CjAABPUHT3WUFHcS_JkCAAEC",
+                    "AgADAQADFagxG4JjqUeTA9OUPAbhv_e7CjAABPHj1Bg0BCxMcRUDAAEC",
+                    "AgADAQAD9acxG3k1uETBvx4EJRTf10G1CjAABLYOjc9t3_7XHmoDAAEC",
+                    "AgADAQADDqgxG7mFsEXNVuVJGUcJ6z9tDDAABLU2QAQLzjMkJ1sEAAEC"],
+                "type": "image"
+            }
+        ]
+    },
+    "private":
+    {
+        "actions": [
+            {
+                "word": "\/lustra\\b",
+                "response": [
+                    "CgADAQADEwADwlbJRhhF1izCLbNwAg"
+                ],
+                "type": "doc",
+                "chatid":"-69499318"
+            },
+            {
+                "word": "\/trigga\\b",
+                "response": [
+                    "CgADBAADIwMAAgscZAdUGAs8L2F4XgI"
+                ],
+                "type": "doc",
+                "chatid":"-69499318"
+            },
+            {
+                "word": "\/welcome\\b",
+                "response": [
+                    "AgADAQAD4acxG2DOMUZf2WR9zYEDd4y6CjAABG_FeaTef6pYpwgBAAEC"
+                ],
+                "type": "image",
+                "chatid":"-69499318"
+            },
+            {
+                "word": "\/amigo\\b",
+                "response": [
+                    "AgADAQADGagxG6BYEEaXJabisI4OI-YpAzAABBd_WEYQEqYjprACAAEC"
+                ],
+                "type": "image",
+                "chatid":"-69499318"
+            },
+            {
+                "word": "\/rola\\b",
+                "response": [
+                    "AgADBAADwqgxG7c8RVB7MPXzV6qPf-ozuhoABLdHrYMI-1vp3noFAAEC"
+                ],
+                "type": "image",
+                "chatid":"-69499318"
+            }
+        ]
+    },
+    "new_user":
+    {
+        "response":["Falae %s! Suave?",
+            "Bem vindo, meu consagrado %s!" ,
+            "Seja bem-vindo à essa casa de fé, %s" ,
+            "%s? CARNE NOVA GALERA!" ,
+            "%s? Falaeeeeeeeeee! Quanto tempo hein?" ,
+            "Oiiiiiiiii %s"],
+        "type":"text"
+    },
+    "left_user":
+    {
+        "response":[" RIP %s",
+                    "%s? F",
+                    "Adeus %s",
+                    "Esse %s aí? Nunca gostei",
+                    "Já foi tarde, %s!",
+                    "%s cantou pra subir!"],
+        "type":"text"
+    }
+}
